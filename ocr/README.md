@@ -34,3 +34,6 @@ cat (file list).txt | python img2xls.py (excel file)
 
 ![keishin_4](https://user-images.githubusercontent.com/87534698/227753714-bb8bc61d-2539-4851-bc51-eb1583e8ae6a.png)
 
+
+c.f. https://azure.microsoft.com/ja-jp/products/form-recognizer/
+
