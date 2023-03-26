@@ -1,8 +1,8 @@
 # ocr
 
-Use this to ocr images with table(s) in it:
-+ table2cells.py: use this to split a table (image file)  into cells (image files)
-+ img2xls.py: use this to ocr cell images then compile to Excel format.
+Use this to ocr an image with table(s) in it:
++ table2cells.py: use this to split a table into cells
++ img2xls.py: use this to ocr cells then compile them to Excel format.
 + ocr_(engin_name).py: called in img2xls.py (ocr engine)
 
 Usage:
