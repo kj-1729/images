@@ -313,12 +313,12 @@ class image_handler:
 
 	#########################################################
 	#                                                       #
-	#      Function: display_img_with_cells_overlayed       #
+	#      Function: display_img_with_cells_overlaid        #
 	#                                                       #
 	#########################################################
 	# - input: self.img, self.vlines, self.hlines, self.cells
 	# - output: image
-	def display_img_with_cells_overlayed(self):
+	def display_img_with_cells_overlaid(self):
 		fig = plt.figure(figsize=(20,20))
 		ax = fig.add_subplot(1,1,1)
 		ax.imshow(self.img)
