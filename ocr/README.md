@@ -24,3 +24,13 @@ cat (file list).txt | python img2xls.py (excel file)
 * Extracted cells:
 
 ![keishin_3](https://user-images.githubusercontent.com/87534698/227750524-43d0da39-b33c-42f5-81e0-e74459173639.png)
+
+## Example (img2xls.py)
+* Cells (same as above)
+
+![keishin_3](https://user-images.githubusercontent.com/87534698/227750524-43d0da39-b33c-42f5-81e0-e74459173639.png)
+
+* Compiled Excel
+
+![keishin_4](https://user-images.githubusercontent.com/87534698/227753714-bb8bc61d-2539-4851-bc51-eb1583e8ae6a.png)
+
